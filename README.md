@@ -21,12 +21,12 @@ Upon installation, the extensions request permission to collect what they descri
 Organizations whose employees have these extensions installed may have unknowingly exposed: full AI chatbot conversation histories including internal project discussions, intellectual property and trade secrets shared with AI assistants, internal corporate URLs visible in browser tab metadata, and sensitive data such as personally identifiable information (PII) or customer records entered into AI tools. This data can be weaponized for corporate espionage, targeted spear-phishing, identity theft, or sold on criminal marketplaces.
 
 IOCs
-Extension ID: fnmihdojmnkclgjpcoonokmkhjpjechg
-Extension ID: inhcgfpbfdjbjogdfjbclgolkmhnooop
-chatsaigpt[.]com
-deepaichats[.]com
-chataigpt[.]pro
-chatgptsidebar[.]pro
+- Extension ID: fnmihdojmnkclgjpcoonokmkhjpjechg
+- Extension ID: inhcgfpbfdjbjogdfjbclgolkmhnooop
+- chatsaigpt[.]com
+- deepaichats[.]com
+- chataigpt[.]pro
+- chatgptsidebar[.]pro
 
 Recommendations
 
