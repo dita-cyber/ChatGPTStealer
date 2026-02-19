@@ -4,10 +4,7 @@ I’ve worked multiple alerts related to ChatGPT Stealer activity tied to malici
 
 ![image alt](https://github.com/dita-cyber/ChatGPTStealer/blob/294930bfd5ada5d3110fdc774ea00ce697687097/image3.png)
 
-Over the past few weeks, I found myself working through a significant volume of alerts tied to malicious Chrome extensions harvesting ChatGPT and DeepSeek conversations. This technique is named Prompt Poaching. What started as a spike in browser-related detections quickly turned into one of the more eye-opening investigations I've worked recently.
-What made this one stand out wasn't just the scale over 900,000 users affected across two extensions alone, but the new topic around AI and its vulnerabilities attached to browser extensions. 
-
-Cybersecurity researchers have identified at least two malicious Chrome extensions with a combined install base of over 900,000 users that are silently exfiltrating ChatGPT and DeepSeek conversation data to attacker-controlled servers. The technique, codenamed Prompt Poaching, represents an emerging and highly scalable method of harvesting sensitive AI chatbot interactions through weaponized browser add-ons.
+Over the past few weeks, I found myself working through a significant volume of alerts tied to malicious Chrome extensions harvesting ChatGPT and DeepSeek conversations. Cybersecurity researchers have identified at least two malicious Chrome extensions with a combined install base of over 900,000 users that are silently exfiltrating ChatGPT and DeepSeek conversation data to attacker-controlled servers. The technique, codenamed Prompt Poaching, represents an emerging and highly scalable method of harvesting sensitive AI chatbot interactions through weaponized browser add-ons.
  
 The two confirmed malicious extensions identified are:
 - Chat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI. Extension ID: fnmihdojmnkclgjpcoonokmkhjpjechg  
